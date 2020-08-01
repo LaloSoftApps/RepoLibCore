@@ -1,0 +1,12 @@
+{
+  "App_Developer": "LaloSoft Apps",
+  "App_Version": "1.0",
+
+  "EMail_UsrLogin": "correo@dominio.com.ar",
+  "EMail_UsrPwd": "PwdDelIsMael",
+  "EMail_FromAddress": "correo@dominio.com.ar",
+  "EMail_FromDescription": "Mi Nombre a Mostrar en el Mail",
+  "EMail_Smtp": "smtp.dominio.com",
+  "EMail_Port": "25",
+  "EMail_Ssl": "false"
+}
